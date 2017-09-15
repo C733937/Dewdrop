@@ -10230,7 +10230,7 @@ exports.BattlePokedex = {
 		color: "Green",
 		eggGroups: ["Water 2"],
 	},
-	basculinmega: {
+	basculinbluestripedmega: {
 		num: 550,
 		species:"Basculin-Mega",
 		baseSpecies:"Basculin-Blue-Striped",
